@@ -1,1 +1,1 @@
-access_token = "y0_AgAAAABk1FKCAAG8XgAAAADdUgwZB-Ot1jBkQLOGrvgoEuApqYwegkw"
+access_token = "ваш_яндекс_токен"

@@ -1,5 +1,6 @@
 from pypresence import Presence
 from yandex_music import Client
+from yandex_music.exceptions import UnauthorizedError
 import time
 
 from config import access_token
@@ -27,6 +28,10 @@ while True:
             large_image="ym_avatar",
             large_text="Yandex Music"
         )
+    except (UnauthorizedError, UnicodeEncodeError):
+        print("Неверный access_token!")
+        print("Введите верный токен в файле config.py!")
+        break
     except:
         RPC.update(
             state="Сейчас ничего не играет!",

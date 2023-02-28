@@ -1,1 +1,1 @@
-access_token = "ваш_токен_яндекс_музыки"
+access_token = "y0_AgAAAABk1FKCAAG8XgAAAADdUgwZB-Ot1jBkQLOGrvgoEuApqYwegkw"

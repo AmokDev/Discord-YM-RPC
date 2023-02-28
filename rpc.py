@@ -29,7 +29,7 @@ while True:
         )
     except:
         RPC.update(
-            state=f"Ошибка! Трек не найден!",
+            state="Сейчас ничего не играет!",
             large_image="ym_avatar",
             large_text="Yandex Music"
         )

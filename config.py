@@ -1,1 +1,1 @@
-access_token = "ваш_яндекс_токен"
+access_token = "penis"

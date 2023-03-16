@@ -1,1 +1,1 @@
-access_token = "penis"
+access_token = "ваш_токен_яндекс_музыки"

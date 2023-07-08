@@ -1,7 +1,7 @@
 # Discord-YM-RPC
 + **Эта программа покажет другим пользователям Discord, что вы слушаете в настоящем времени в Yandex Music!**
 
-![enter image description here](https://i.ibb.co/bzn63b1/image.png)
+![example](https://i.ibb.co/MkNkdpK/image.png)
 ## Помощь по установке
 + `git clone https://github.com/NeynQ/Discord-YM-RPC` (если у Вас windows и нету git, просто скачайте и распакуйте архив в нужную вам папку)
 + `cd Discord-YM-RPC`

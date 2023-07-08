@@ -3,7 +3,7 @@
 
 ![example](https://i.ibb.co/MkNkdpK/image.png)
 ## Помощь по установке
-+ `git clone https://github.com/NeynQ/Discord-YM-RPC` (если у Вас windows и нету git, просто скачайте и распакуйте архив в нужную вам папку)
++ `git clone https://github.com/NeynQ/Discord-YM-RPC.git` (если у Вас windows и нету git, просто скачайте и распакуйте архив в нужную вам папку)
 + `cd Discord-YM-RPC`
 + `pip3 install -r requirements.txt`
 + Поставьте свой **access_token** Яндекс.Музыки в `config.py`

@@ -4,7 +4,7 @@
 ![example](https://i.ibb.co/MkNkdpK/image.png)
 ## Помощь по установке
 # Linux
-+ `git clone https://github.com/NeynQ/Discord-YM-RPC.git`
++ `git clone https://github.com/amokdev/Discord-YM-RPC.git`
 + `cd Discord-YM-RPC`
 + `pip3 install -r requirements.txt`
 + Поставьте свой **access_token** Яндекс.Музыки в `config.py`
@@ -13,7 +13,7 @@
 + Установите Python 3.8+ с оффициального сайта
 + Установите git или установите репозиторий как архив и распакуйте на рабочем столе!
 + Введите комбинацию клавиш WIN + R, в появившемся окне введите фразу "cmd" без ковычек и нажмине ENTER
-+ Если вы установили git, введите комманду `git clone https://github.com/NeynQ/Discord-YM-RPC.git`
++ Если вы установили git, введите комманду `git clone https://github.com/amokdev/Discord-YM-RPC.git`
 + Откройте файл `config.py` и вставьте туда свой access_token
 + Найдите установленный репозиторий и щелкните 2 раза по файлу `start.bat` или введите в терминале комманду `start.bat`
 ## Важно
